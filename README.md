@@ -20,18 +20,18 @@ Program summary
 * Database : Postgresql
 
 * 功能指令
-* ./Figures/Help.png
+* ![Help](./Figures/Help.png)
 
 * 指令提示
-* (./Figures/Help2.png)
+* ![Help2](./Figures/Help2.png)
 
-** 介紹主要大功能
+  * 介紹主要大功能
 
 * 日記撰寫
-* (./Figures/Diary.png)
+* ![Diary](./Figures/Diary.png)
 
 * 餐費紀錄
-* (./Figures/MealFee.png)
+* ![MealFee](./Figures/MealFee.png)
 
 * 重量訓練紀錄
-* (./Figures/Weight Training.png)
+* ![Weight_Training](./Figures/Weight_Training.png)
