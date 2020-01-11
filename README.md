@@ -20,7 +20,7 @@ Program summary
 * Database : Postgresql
 
 * 功能指令
-* (./Figures/Help.png)
+* ./Figures/Help.png
 
 * 指令提示
 * (./Figures/Help2.png)
