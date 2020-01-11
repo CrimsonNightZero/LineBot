@@ -11,16 +11,18 @@ LineBot
 
 此程式為個人用，就不方便公布。
 
-Linebot主要在生活中，為了事情做紀錄和方便所做的設計。
+Linebot主要應用在生活中，為了紀錄事情和方便所做的設計。
 
 
 Program summary
 -----------------
+
 * Back-End : Heroku
 * Database : Postgresql
 
 * 功能指令
 * ![Help](./Figures/Help.png)
+* 原本Comic要結合在LineBot上，但利用Selenium爬取動態網頁，response time is too long.
 
 * 指令提示
 * ![Help2](./Figures/Help2.png)
