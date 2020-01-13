@@ -1,0 +1,12 @@
+line-bot-sdk==1.8.0
+Flask
+gunicorn
+datetime
+requests
+bs4
+Flask-SQLAlchemy == 2.1
+Flask-Migrate
+uuid
+flask-script
+psycopg2
+
